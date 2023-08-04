@@ -1,0 +1,242 @@
+﻿  Źródło.cpp
+  The contents of <ranges> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(86,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(86,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(106,109): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(106,75): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(140,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(140,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(141,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(141,28): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(395,29): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(427,45): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(427,33): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(428,84): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(428,39): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(429,84): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(429,39): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(430,84): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(430,39): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(435,25): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(435,37): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(437,28): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(437,73): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(439,28): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(439,73): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(441,28): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(441,73): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(488,43): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(488,34): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(493,35): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(493,44): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(493,62): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(493,71): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(508,22): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(509,22): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(534,46): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(534,75): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(543,46): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(543,75): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(595,46): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(595,75): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(601,46): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(601,75): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(711,1): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(742,44): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(743,43): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(762,25): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(763,25): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(766,58): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(766,47): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(767,56): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(767,50): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(964,198): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(964,108): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(975,191): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(1023,1): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(1144,58): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(1144,95): warning C4244: "argument": konwersja z "T" do "const unsigned __int64", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(1159,1): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(1239,131): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(1239,97): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(1295,46): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(1295,39): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mgrze\source\repos\SFML\SFML\Źródło.cpp(1299,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  SFML.vcxproj -> C:\Users\mgrze\source\repos\SFML\x64\Debug\SFML.exe

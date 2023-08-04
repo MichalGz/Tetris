@@ -1,3 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.cpp filter=lfs diff=lfs merge=lfs -text
+C:UsersmgrzeOneDrivePulpitTetris filter=lfs diff=lfs merge=lfs -text
+C:UsersmgrzeOneDrivePulpitTetrisTetrisSFML filter=lfs diff=lfs merge=lfs -text
+*.sln filter=lfs diff=lfs merge=lfs -text
